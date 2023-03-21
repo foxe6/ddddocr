@@ -2,6 +2,10 @@
 - [http://www.winimage.com/zLibDll/zlib123dllx64.zip](http://www.winimage.com/zLibDll/zlib123dllx64.zip)
 - [https://developer.download.nvidia.com/compute/cuda/11.6.0/local_installers/cuda_11.6.0_511.23_windows.exe](https://developer.download.nvidia.com/compute/cuda/11.6.0/local_installers/cuda_11.6.0_511.23_windows.exe)
 - [https://developer.download.nvidia.com/compute/redist/cudnn/v8.5.0/local_installers/11.7/cudnn-windows-x86_64-8.5.0.96_cuda11-archive.zip](https://developer.download.nvidia.com/compute/redist/cudnn/v8.5.0/local_installers/11.7/cudnn-windows-x86_64-8.5.0.96_cuda11-archive.zip)
+```
+python -m pip uninstall onnxruntime
+python -m pip install onnxruntime-gpu
+```
 
 ![header.png](https://cdn.wenanzhe.com/img/68747470733a2f2f7a332e617831782e636f6d2f323032312f30372f30322f5236496832382e6a7067.jfif)
 
