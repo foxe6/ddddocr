@@ -1,4 +1,4 @@
-onnxruntime
+onnxruntime-gpu
 Pillow
 numpy
 opencv-python-headless
