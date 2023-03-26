@@ -1,4 +1,7 @@
 # gpu inferencing prerequisite
+## linux
+- [https://colab.research.google.com/drive/1drVEV-klWHpiW_5fQ4vf3IpBYlfgSSMR?usp=sharing](https://colab.research.google.com/drive/1drVEV-klWHpiW_5fQ4vf3IpBYlfgSSMR?usp=sharing)
+## windows
 - [http://www.winimage.com/zLibDll/zlib123dllx64.zip](http://www.winimage.com/zLibDll/zlib123dllx64.zip)
 - [https://developer.download.nvidia.com/compute/cuda/11.6.0/local_installers/cuda_11.6.0_511.23_windows.exe](https://developer.download.nvidia.com/compute/cuda/11.6.0/local_installers/cuda_11.6.0_511.23_windows.exe)
 - [https://developer.download.nvidia.com/compute/redist/cudnn/v8.5.0/local_installers/11.7/cudnn-windows-x86_64-8.5.0.96_cuda11-archive.zip](https://developer.download.nvidia.com/compute/redist/cudnn/v8.5.0/local_installers/11.7/cudnn-windows-x86_64-8.5.0.96_cuda11-archive.zip)
